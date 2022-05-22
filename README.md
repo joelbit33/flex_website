@@ -1,2 +1,2 @@
 # flex_website
-Simple Flex Design
+Simple flex design to build on and also come back to when you need to refresh skills.
